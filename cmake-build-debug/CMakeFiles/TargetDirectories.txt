@@ -1,0 +1,3 @@
+/mnt/d/BIT/3BIT/ISA/projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/BIT/3BIT/ISA/projekt/cmake-build-debug/CMakeFiles/projekt.dir
+/mnt/d/BIT/3BIT/ISA/projekt/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/BIT/3BIT/ISA/projekt/main.cpp
+iostream
+-
+cstring
+-
+string
+-
+fstream
+-
+getopt.h
+-
+vector
+-
+sys/types.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+netinet/in.h
+-
+algorithm
+-
+unistd.h
+-
+netdb.h
+-
+
