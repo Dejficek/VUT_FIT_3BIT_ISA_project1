@@ -1,7 +1,7 @@
 # Fakulta informačních technologií Vysokého učení technického v Brně
 ## projekt ISA (Síťové a plikace a správa sítí) 2020
-## varianta: Filtrující DNS resolver (Dr. Polčák)
-## autor: David Rubý (xrubyd00 / 213482)
+## varianta: Filtrující DNS resolver
+## autor: David Rubý
 ***
 
 Implementace projektu v jazyce ```C++```, apolu s základníma síťovýma a jinýma knihovnama.
